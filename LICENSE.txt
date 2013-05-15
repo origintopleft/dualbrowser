@@ -47,7 +47,7 @@ You, fair reader, have the following rights and responsibilities:
 
 ---
 
-This is revision 1 of the Lavacano license, drafted 2013.05.11 at 19:57 US
+This is revision 2 of the Lavacano license, drafted 2013.05.15 at 14:27 US
 Pacific Time (GMT - 7) by Nicholas "Lavacano" O'Connor. Anything not addressed
 in this license is considered to be accepted unless otherwise forbidden by the
 author.
