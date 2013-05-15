@@ -1,0 +1,53 @@
++======================+=================================================+
+| Important Legal Note | (tl;dr "Don't blame me if this melts your dog") |
++======================+=================================================+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
+
+This is the Lavacano license.
+
+Throughout this license will be references to "this code" and similar. For all
+intents and purposes, any non-code assets (graphics, binaries, et cetera) will
+be considered as "code" for defining rights and responsibilities within this
+license.
+
+You, fair reader, have the following rights and responsibilities:
+ - You have the RIGHT to use this code for any non commercial purpose.
+   Commercial purposes require prior author permission.
+ - You have the RIGHT to redistribute this code, in whole or in part, to one
+   or more persons at will.
+ - You have the RIGHT to modify this code, in whole or in part, and distribute
+   and use your modified code under the terms of this license.
+ - You have the RIGHT to claim responsibility for your modifications, within
+   the condition that they fall under this license.
+ - You have the RIGHT to use/redistribute this code alongside code/programs
+   of other license, within the condition that the other licenses do not apply
+   to this code.
+ - You have the RIGHT to apply a later revision of this license to the code,
+   except for any revisions expressly declared by you or a predecessor to be
+   unacceptable.
+ - You have the RIGHT to distribute files with this code under other licenses,
+   within the condition that it is made clear which files are excluded, and
+   that the licenses for those files are included.
+
+ - You have the RESPONSIBILITY to ensure that this license is the only license
+   affecting this code.
+ - You have the RESPONSIBILITY to credit each author for their respective
+   contributions and modifications to this code.
+
+---
+
+This is revision 1 of the Lavacano license, drafted 2013.05.11 at 19:57 US
+Pacific Time (GMT - 7) by Nicholas "Lavacano" O'Connor. Anything not addressed
+in this license is considered to be accepted unless otherwise forbidden by the
+author.

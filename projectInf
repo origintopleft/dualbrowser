@@ -1,0 +1,9 @@
+name=DualBrowser
+version=20101210
+mainfile=dualbrowser.py
+iconfile=dualbrowser.ico
+libfile=library.zip
+includes=
+excludes=
+ascii=0
+srcdir=.
