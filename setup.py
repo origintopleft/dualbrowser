@@ -101,6 +101,13 @@ mainFileDict = {"script": srcdir + "\\" + mainfile}
 if iconfile != "":
 	mainFileDict["icon_resources"] = [(1,srcdir + "\\" + iconfile)]
 
+# Pre-install script, if present.
+try:
+	import preinstall
+	preinstall.preinstall()
+except ImportError:
+	pass
+
 # Finally, the preparations are complete. LET US BEGIN!
 setup(
 	name = name,
@@ -109,6 +116,13 @@ setup(
 	zipfile = libfile,
 	options = {"py2exe": configDict}
 )
+
+# Post-install script, if present.
+try:
+	import postinstall
+	postinstall.postinstall()
+except ImportError:
+	pass
 
 # Wrap up by saying g'bye to the user
 print "You should check to see if py2exe screwed up."
